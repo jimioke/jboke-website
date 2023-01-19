@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>activity based accessibility on Jimi B Oke</title>
+    <title>activity-based accessibility on Jimi B Oke</title>
     <link>https://people.umass.edu/jboke/tags/activity-based-accessibility/</link>
-    <description>Recent content in activity based accessibility on Jimi B Oke</description>
+    <description>Recent content in activity-based accessibility on Jimi B Oke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://people.umass.edu/jboke/tags/activity-based-accessibility/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Evaluating the impacts of shared automated mobility on-demand: an activity-based accessibility approach</title>
-      <link>https://people.umass.edu/jboke/publications/nahmias-biran2020evaluating/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Evaluating the impacts of shared automated mobility on-demand services: An activity-based accessibility approach</title>
+      <link>https://people.umass.edu/jboke/publications/nahmias_biran2020evaluating/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.umass.edu/jboke/publications/nahmias-biran2020evaluating/</guid>
-      <description></description>
+      <guid>https://people.umass.edu/jboke/publications/nahmias_biran2020evaluating/</guid>
+      <description>Autonomous vehicle (AV) technologies are under constant improvement with pilot programs now underway in several urban areas worldwide. Modeling and field-testing efforts are demonstrating that shared mobility coupled with AV technology for automated mobility on-demand (AMoD) service may significantly impact levels of service and environmental outcomes in future cities. Given these rapidly emerging developments, there is an urgent need for methods to adequately quantify the economic impacts of new vehicle technologies and future urban mobility policy.</description>
     </item>
     
   </channel>
